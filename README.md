@@ -1,4 +1,4 @@
-# Boutique Cases in BearClub (狗熊会)
+# Data Analysis at BearClub (狗熊会)
 
 <img src="http://hansheng.gsm.pku.edu.cn/dfiles/25982/wang.jpg"  width="250" height="250">
 
