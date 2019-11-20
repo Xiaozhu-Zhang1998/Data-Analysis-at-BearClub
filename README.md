@@ -16,5 +16,7 @@ ________________________________________________
 * Text Analysis 2 - _Langya Bang_ (《琅琊榜》)
 * Text Analysis 3 - _Pobing_ (《破冰》)
 
-## Author(s)
+For every case, there will be a pdf converted from R Markdown, giving detailed explanations and conclusions. Datasets are given in csv format. R codes are provided, and particularly, if there are unreadable characters, please click "Reopen with Encoding" in IDE RStudio and select "CP936 (System Default)".
+
+## Authors
 Xiaozhu Zhang - [GitHub](https://github.com/Xiaozhu-Zhang1998)
